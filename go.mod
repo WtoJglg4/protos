@@ -1,4 +1,4 @@
-module github/sso-grpc/protos
+module github.com/WtoJglg4/protos
 
 go 1.22.1
 
